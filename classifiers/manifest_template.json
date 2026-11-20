@@ -1,0 +1,21 @@
+{
+  "dataset_01": {
+    "onehot": "E:/olg/O-linkedGlycosylation/predictions/val_dataset_01_onehot.npz",
+    "blosum62": "E:/olg/O-linkedGlycosylation/predictions/val_dataset_01_blosum62.npz",
+    "aaindex": "E:/olg/O-linkedGlycosylation/predictions/val_dataset_01_aaindex.npz",
+    "prott5": "E:/olg/O-linkedGlycosylation/predictions/val_dataset_01_prott5.npz",
+    "structure": "E:/olg/O-linkedGlycosylation/predictions/val_dataset_01_structure.npz"
+  },
+  "dataset_02": {
+    "onehot": "", "blosum62": "", "aaindex": "", "prott5": "", "structure": ""
+  },
+  "dataset_03": {
+    "onehot": "", "blosum62": "", "aaindex": "", "prott5": "", "structure": ""
+  },
+  "dataset_04": {
+    "onehot": "", "blosum62": "", "aaindex": "", "prott5": "", "structure": ""
+  },
+  "dataset_05": {
+    "onehot": "", "blosum62": "", "aaindex": "", "prott5": "", "structure": ""
+  }
+}
